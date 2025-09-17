@@ -1,0 +1,10 @@
+openai
+pandas
+requests
+beautifulsoup4
+neo4j
+streamlit
+numpy
+pyarrow
+altair
+tqdm
